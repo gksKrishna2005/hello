@@ -2,7 +2,7 @@ Week 4: Maven-creation
 Open Eclipse, click on file->click new->maven project->filter->quickstart(java),webapp(web application)->org.apache.maven.archetypes
 put some artifactid and then next, 
 click on project->run as->maven build->goals-> clean install test
-then run as java application or run on server 
+then run as java application or run on server  
 right click->show in local terminal->git bash 
 -----------------------------------------------------
 Question: Create a Docker Compose setup with a Node.js app and MongoDB.
